@@ -1,0 +1,192 @@
+.tudo{
+position: absolute;
+height: 100%;
+width: 100%;
+}
+
+.topo{
+height: 40px;
+width: 100%;
+background-color: #013601;
+}
+
+.satc{
+float: left;
+background-color: #013601;
+width: 310px;
+height: 40px;
+}
+
+.outros{
+margin-left: 494px;
+float: left;
+background-color: #013601;
+width: 500px;
+height: 40px;
+}
+
+.titulo{
+background-color: #028102;
+width: 100%;
+height: 100px;
+}
+
+.mapa{
+background-color: #013601;
+width: 100%;
+height: 450px;
+}
+
+.rodape{
+background-color: #028102;
+width: 100%;
+height: 107px;
+}
+
+.dados{
+background-color: #C0C0C0;
+width: 100%;
+height: 40px;
+}
+
+.resposta{
+background-color: #028102;
+width: 100%;
+height: 67px;
+}
+
+.educacao{
+margin-top: 9px;
+display: flex;
+justify-content: center;
+align-content: center;
+font-family: Bahnschrift;
+color: white;
+}
+
+.outros{
+color: white;
+font-family:Bahnschrift;
+}
+
+.t1{
+margin-left: 100px;
+position: relative;
+top:25%;
+}
+
+.t2{
+position: relative;
+top:25%;
+margin-left: 50px;
+}
+
+.t3{
+position: relative;
+top:25%;
+margin-left: 50px;
+}
+
+.t4{
+position: relative;
+top:25%;
+margin-left: 50px;
+}
+
+.divlogo{
+float: left;
+width: 300px;
+height: 100px;
+background-color: #028102;
+}
+
+.logo{
+margin-left: 30px;
+margin-top: 10px;
+}
+
+.titulonome{
+font-family: Bahnschrift;
+font-size: 50px;
+margin-left: 65px;
+float: left;
+color: white;
+margin-top: 20px;
+}
+
+.dados{
+font-size: 20px;
+color: black;
+font-family: Bahnschrift;
+}
+
+.p1{
+position: relative;
+top: 20%;
+margin-left: 30px;
+}
+
+.p2{
+position: relative;
+top: 20%;
+margin-left: 460px;
+}
+
+.p3{
+position: relative;
+top: 20%;
+margin-left: 435px;
+}
+
+.r1{
+float: left;
+background-color: #028102;
+width: 500px;
+height: 67px;
+}
+
+.r2{
+float: left;
+background-color: #028102;
+width: 500px;
+height: 67px;
+}
+
+.r3{
+float: left;
+background-color: #028102;
+width: 304px;
+height: 67px;
+}
+
+.local{
+margin-left: 20px;
+position: relative;
+top: 30%;
+color:white;
+font-family: Bahnschrift;
+}
+
+.telefone{
+margin-left: 90px;
+position: relative;
+top: 30%;
+color:white;
+font-family: Bahnschrift;
+}
+
+.site{
+margin-left: 60px;
+position: relative;
+top: 30%;
+color:white;
+font-family: Bahnschrift;
+}
+
+.samuel{
+position: relative;
+top: 70%;
+font-family: Bahnschrift;
+color: white;
+margin-left: 120px;
+}
